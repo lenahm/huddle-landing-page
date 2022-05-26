@@ -1,0 +1,68 @@
+/* main styling */
+
+h1 {
+    font-size: 1.7rem;
+}
+
+h2 {
+    font-size: 1.2rem;
+}
+
+body {
+    font-size: 0.9rem;
+}
+
+/* header */
+
+header #header-navbar > img {
+    width: 40%;
+}
+
+header > img {
+    height: 100vh;
+}
+
+header {
+    height: 100vh;
+}
+
+header {
+    padding: 30px;
+}
+
+header #header-content > div {
+    padding: 0;
+}
+
+header #header-content > img {
+    margin: 60px auto;
+}
+
+/* features */
+
+main #features {
+    margin: 50px 20px;
+}
+
+main #features img {
+    width: 300px;
+}
+
+/* ready-to-build */
+
+main #ready-to-build {
+    width: 300px;
+}
+
+/* footer */
+
+footer {
+    flex-direction: column;
+    padding: 150px 30px 50px 30px;
+    background-color: var(--dark-cyan);
+    color: #fff;
+}
+
+footer > img {
+    width: 70%;
+}
