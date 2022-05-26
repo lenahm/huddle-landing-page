@@ -59,8 +59,8 @@ header #header-navbar {
 header #header-content {
     position: relative;
     z-index: 2;
-    margin-top: 80px;
     grid-template-columns: repeat(2, 1fr);
+    margin-top: 80px;
 }
 
 header #header-content > div {
